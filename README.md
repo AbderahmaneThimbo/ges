@@ -25,4 +25,4 @@ npm start
 
 ## UML
 
-![image](UMLclass.png)
+![image](./assets/UMLclass.png)
